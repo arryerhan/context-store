@@ -21,3 +21,9 @@
 - React Bootstrap: Responsive UI components styled with Bootstrap.
 - React Icons: Provides customizable icons for a more intuitive interface.
 - React Toastify: Simple and customizable toast notifications for React applications.
+
+## Screenshots
+
+![screen01](https://github.com/user-attachments/assets/c744ae0a-e827-4568-ad0c-d90467cc4722)
+
+![screen02](https://github.com/user-attachments/assets/3985dc3e-a467-4d57-843b-04335ca6cdf0)
